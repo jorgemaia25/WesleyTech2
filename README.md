@@ -1,2 +1,2 @@
-# WesleyTech2
-Projeto para autoração 2
+# wesleyTech
+Loja de Produtos de TI Wesley &amp; Associates Inc.
